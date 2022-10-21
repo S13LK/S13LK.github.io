@@ -1,0 +1,1227 @@
+[
+    {
+        "Cantidad": 10,
+        "ID": 0,
+        "Nombre": "WEED",
+        "Precio": 1000.0,
+        "Tipo": "OZ"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 1,
+        "Nombre": "MANZANA",
+        "Precio": 30.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 2,
+        "Nombre": "MANZANA ROJA",
+        "Precio": 30.5,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 3,
+        "Nombre": "MANZANA GOLD",
+        "Precio": 30.5,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 25,
+        "ID": 4,
+        "Nombre": "MANGO",
+        "Precio": 35.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 19,
+        "ID": 5,
+        "Nombre": "PLATANO TABASCO",
+        "Precio": 18.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 18,
+        "ID": 6,
+        "Nombre": "PLATANO MACHO",
+        "Precio": 19.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 7,
+        "Nombre": "PLATANO DOMINICO",
+        "Precio": 20.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 8,
+        "Nombre": "FRESAS",
+        "Precio": 65.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 20,
+        "ID": 9,
+        "Nombre": "AGUACATE",
+        "Precio": 55.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 10,
+        "Nombre": "CEREZA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 11,
+        "Nombre": "KIWI",
+        "Precio": 95.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 12,
+        "Nombre": "LIMON S/S",
+        "Precio": 21.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 18,
+        "ID": 13,
+        "Nombre": "MANGO MANILA",
+        "Precio": 22.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 14,
+        "Nombre": "MANGO PETACON",
+        "Precio": 14.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 15,
+        "Nombre": "NARANJA",
+        "Precio": 18.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 16,
+        "Nombre": "PAPAYA",
+        "Precio": 21.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 17,
+        "Nombre": "PERA",
+        "Precio": 65.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 18,
+        "Nombre": "PIÑA",
+        "Precio": 28.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 19,
+        "Nombre": "SANDIA",
+        "Precio": 15.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 20,
+        "Nombre": "TORONJA",
+        "Precio": 20.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 8,
+        "ID": 21,
+        "Nombre": "UVA",
+        "Precio": 75.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 22,
+        "Nombre": "MELON",
+        "Precio": 20.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 23,
+        "Nombre": "GUAYABA",
+        "Precio": 19.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 25,
+        "ID": 24,
+        "Nombre": "MANDARINA",
+        "Precio": 18.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 25,
+        "Nombre": "CEBOLLA",
+        "Precio": 30.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 50,
+        "ID": 26,
+        "Nombre": "JITOMATE",
+        "Precio": 18.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 29,
+        "ID": 27,
+        "Nombre": "PEPINO",
+        "Precio": 21.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 28,
+        "Nombre": "JICAMA",
+        "Precio": 18.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 4,
+        "ID": 29,
+        "Nombre": "BETABEL",
+        "Precio": 9.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 18,
+        "ID": 30,
+        "Nombre": "ELOTE",
+        "Precio": 5.5,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 1,
+        "ID": 31,
+        "Nombre": "CHILE TAMPICO",
+        "Precio": 55.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 1,
+        "ID": 32,
+        "Nombre": "CHILE CERRANO",
+        "Precio": 65.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 1,
+        "ID": 33,
+        "Nombre": "CHILE HABANERO",
+        "Precio": 66.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 25,
+        "ID": 34,
+        "Nombre": "CHAYOTE",
+        "Precio": 22.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 35,
+        "Nombre": "PAPA",
+        "Precio": 25.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 37,
+        "Nombre": "LIMON C/S",
+        "Precio": 16.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 2,
+        "ID": 38,
+        "Nombre": "AJO",
+        "Precio": 85.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 39,
+        "Nombre": "CHILE POBLANO",
+        "Precio": 25.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 40,
+        "Nombre": "DURAZNO",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 41,
+        "Nombre": "MAMEY",
+        "Precio": 19.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 42,
+        "Nombre": "CHILE MORRON",
+        "Precio": 65.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 17,
+        "ID": 43,
+        "Nombre": "ZANAHORIA",
+        "Precio": 12.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 13,
+        "ID": 44,
+        "Nombre": "LECHUGA ROMANA",
+        "Precio": 13.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 45,
+        "Nombre": "LECHUGA ITALIANA",
+        "Precio": 13.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 46,
+        "Nombre": "COL",
+        "Precio": 18.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 47,
+        "Nombre": "COCO",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 48,
+        "Nombre": "CACAHUATE",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 49,
+        "Nombre": "APIO",
+        "Precio": 15.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 50,
+        "Nombre": "FRAMBUESA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 2,
+        "ID": 51,
+        "Nombre": "CHAMPIÑON",
+        "Precio": 85.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 2,
+        "ID": 52,
+        "Nombre": "CHILE JALAPEÑO",
+        "Precio": 25.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 1,
+        "ID": 53,
+        "Nombre": "EJOTE",
+        "Precio": 32.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 1,
+        "ID": 54,
+        "Nombre": "CHICHARO",
+        "Precio": 25.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 1,
+        "ID": 55,
+        "Nombre": "GENGIBRE",
+        "Precio": 75.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 1,
+        "ID": 56,
+        "Nombre": "CURCUMA",
+        "Precio": 38.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 57,
+        "Nombre": "CALABAZA",
+        "Precio": 18.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 58,
+        "Nombre": "DOWNY 750ML",
+        "Precio": 20.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 59,
+        "Nombre": "SUAVITEL 1L",
+        "Precio": 20.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 7,
+        "ID": 60,
+        "Nombre": "SUAVITEL 800ML",
+        "Precio": 25.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 61,
+        "Nombre": "SUAVITEL 300ML",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 62,
+        "Nombre": "MAX COLOR 415ML",
+        "Precio": 19.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 63,
+        "Nombre": "ENSUEÑO 1L",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 64,
+        "Nombre": "ENSUEÑO 850ML",
+        "Precio": 23.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 65,
+        "Nombre": "ACEITE MARAVILLA 1LT",
+        "Precio": 45.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 7,
+        "ID": 66,
+        "Nombre": "ACEITE MARAVILLA 500ML",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 67,
+        "Nombre": "ACEITE 123 1L",
+        "Precio": 48.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 68,
+        "Nombre": "ACEITE 123 500 ML",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 3,
+        "ID": 69,
+        "Nombre": "ACE LIQUIDO 800ML",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 17,
+        "ID": 70,
+        "Nombre": "FABULOSO 1LT",
+        "Precio": 25.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 71,
+        "Nombre": "FABULOSO 500ML",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": "C1",
+        "ID": 72,
+        "Nombre": "MARUCHAN",
+        "Precio": 13.5,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 73,
+        "Nombre": "VALENTINA 370ML",
+        "Precio": 17.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 16,
+        "ID": 74,
+        "Nombre": "BOTANERA 500ML",
+        "Precio": 15.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 25,
+        "ID": 75,
+        "Nombre": "AZUCAR",
+        "Precio": 20.0,
+        "Tipo": "KG"
+    },
+    {
+        "Cantidad": 13,
+        "ID": 76,
+        "Nombre": "SAL",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 11,
+        "ID": 77,
+        "Nombre": "ARROZ SOS",
+        "Precio": 32.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 7,
+        "ID": 78,
+        "Nombre": "HARINA",
+        "Precio": 19.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 79,
+        "Nombre": "CHILES MORENA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 80,
+        "Nombre": "CHILES COSTEÑA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 81,
+        "Nombre": "FRIJOLES LATA COSTEÑA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 82,
+        "Nombre": "FRIJOLES LATA LA SIERRA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 25,
+        "ID": 83,
+        "Nombre": "COCA COLA 600ML",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 30,
+        "ID": 84,
+        "Nombre": "COCA COLA 1L",
+        "Precio": 24.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 85,
+        "Nombre": "COCA COLA 3L",
+        "Precio": 46.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 86,
+        "Nombre": "COCA RETORNABLE 2.5L",
+        "Precio": 31.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 87,
+        "Nombre": "COCA RETORNABLE 3L",
+        "Precio": 35.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 88,
+        "Nombre": "BROCOLI",
+        "Precio": 19.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 24,
+        "ID": 89,
+        "Nombre": "COCA RETORNABLE 1.25L VIDRIO",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 16,
+        "ID": 90,
+        "Nombre": "PEPSI 3L",
+        "Precio": 35.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 18,
+        "ID": 91,
+        "Nombre": "PEPSI 2.5L",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 24,
+        "ID": 92,
+        "Nombre": "COCA COLA VIDRIO 12 OZ",
+        "Precio": 13.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 93,
+        "Nombre": "SIDRAL MUNDET 500ML",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 94,
+        "Nombre": "GARRAFON CIEL 20L",
+        "Precio": 43.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 95,
+        "Nombre": "SABORES RETORNABLE 600ML",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 96,
+        "Nombre": "SABORES RETORNABLE 2.5L",
+        "Precio": 23.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 97,
+        "Nombre": "COCA COLA LATA 12OZ",
+        "Precio": 17.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 98,
+        "Nombre": "COCA COLA 500ML",
+        "Precio": 17.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 99,
+        "Nombre": "COCA COLA 400ML",
+        "Precio": 13.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 100,
+        "Nombre": "COCA COLA 2.25L",
+        "Precio": 33.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 7,
+        "ID": 101,
+        "Nombre": "COCA COLA 3L",
+        "Precio": 46.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 102,
+        "Nombre": "COCA COLA 2.75L",
+        "Precio": 38.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 103,
+        "Nombre": "DELAWARE 600ML",
+        "Precio": 14.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 4,
+        "ID": 104,
+        "Nombre": "DELAWARE 2L",
+        "Precio": 21.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 105,
+        "Nombre": "VALLE FRUT 600ML",
+        "Precio": 15.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 106,
+        "Nombre": "VALLE FRUT 2L",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 8,
+        "ID": 107,
+        "Nombre": "VALLE FRUT 3L",
+        "Precio": 36.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 9,
+        "ID": 108,
+        "Nombre": "SABORES 600ML",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 21,
+        "ID": 109,
+        "Nombre": "SABORES 2L",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 110,
+        "Nombre": "SABORES 3L",
+        "Precio": 35.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 111,
+        "Nombre": "SIDRAL 2L",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 112,
+        "Nombre": "MONSTER ",
+        "Precio": 39.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 113,
+        "Nombre": "POWERADE 600ML",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 9,
+        "ID": 114,
+        "Nombre": "LA GENEROSA",
+        "Precio": 17.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 115,
+        "Nombre": "SABORES FANTA 2L",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 10,
+        "ID": 116,
+        "Nombre": "SABORES FANTA 3L",
+        "Precio": 35.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 117,
+        "Nombre": "AGUA CIEL 600ML",
+        "Precio": 10.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 118,
+        "Nombre": "AGUA CIEL 1L",
+        "Precio": 14.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 119,
+        "Nombre": "AGUA CIEL 1.5L",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": "O12",
+        "ID": 120,
+        "Nombre": "AGUA CIEL 2L",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 121,
+        "Nombre": "INDIO LATA",
+        "Precio": 24.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 122,
+        "Nombre": "INDIO CAGUAMA",
+        "Precio": 44.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 12,
+        "ID": 123,
+        "Nombre": "XX LATA",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 24,
+        "ID": 124,
+        "Nombre": "XX CAGUAMA",
+        "Precio": 48.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 24,
+        "ID": 125,
+        "Nombre": "HEINEKEN LATA",
+        "Precio": 24.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 24,
+        "ID": 126,
+        "Nombre": "HEINEKEN CAGUAMA",
+        "Precio": 48.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 24,
+        "ID": 127,
+        "Nombre": "VICTORIA LATA",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 24,
+        "ID": 128,
+        "Nombre": "VICTORIA CAGUAMA",
+        "Precio": 44.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 129,
+        "Nombre": "LALA DESLACTOSADA 1L",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 130,
+        "Nombre": "ALPURA ENTERA 1L",
+        "Precio": 21.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 131,
+        "Nombre": "NUTRILECHE 1L",
+        "Precio": 19.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 132,
+        "Nombre": "SANTA CLARA DESLACTOSADA 1L",
+        "Precio": 25.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 133,
+        "Nombre": "LALA ENTERA 1L",
+        "Precio": 23.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 134,
+        "Nombre": "SANTA CLARA ENTERA 1L",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 135,
+        "Nombre": "ALPURA DESLACTOSADA 1L",
+        "Precio": 24.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 136,
+        "Nombre": "CREMA ALPURA 500ML",
+        "Precio": 32.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 137,
+        "Nombre": "CRMA lALA 250ML",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 138,
+        "Nombre": "CREMA ALPURA 250ML",
+        "Precio": 19.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 139,
+        "Nombre": "CREMA LALA 500ML",
+        "Precio": 33.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 15,
+        "ID": 140,
+        "Nombre": "MAIZENA DE SABORES",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 141,
+        "Nombre": "PURE DE TOMATE 500ML",
+        "Precio": 17.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 142,
+        "Nombre": "PURE DE TOMATE 250ML",
+        "Precio": 12.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 2,
+        "ID": 143,
+        "Nombre": "AVENA",
+        "Precio": 25.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 25,
+        "ID": 144,
+        "Nombre": "GELATINA ",
+        "Precio": 17.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 35,
+        "ID": 145,
+        "Nombre": "SOPA ITALIAN PASTA",
+        "Precio": 8.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 8,
+        "ID": 146,
+        "Nombre": "CATSUP 500ML",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 8,
+        "ID": 147,
+        "Nombre": "CATSUP 250ML",
+        "Precio": 13.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 8,
+        "ID": 148,
+        "Nombre": "MAYONERA 750ML",
+        "Precio": 33.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 149,
+        "Nombre": "MAYONERA 500ML",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 150,
+        "Nombre": "MAYONESA 250",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 8,
+        "ID": 151,
+        "Nombre": "MIEL 1/2",
+        "Precio": 50.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 152,
+        "Nombre": "VINAGRE 500ML",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 153,
+        "Nombre": "VINAGRE 250ML",
+        "Precio": 10.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 154,
+        "Nombre": "ACEITUNAS LATA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 155,
+        "Nombre": "CHAMPIÑONES LATA",
+        "Precio": 16.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 4,
+        "ID": 156,
+        "Nombre": "DURAZNOS EN ALMIBAR ",
+        "Precio": 45.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 4,
+        "ID": 157,
+        "Nombre": "PIÑA EN ALMIBAR",
+        "Precio": 46.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 5,
+        "ID": 158,
+        "Nombre": "SARDIINAS CALMEX",
+        "Precio": 32.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 7,
+        "ID": 159,
+        "Nombre": "ATUN AGUA",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 7,
+        "ID": 160,
+        "Nombre": "ATUN ACEITE",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 161,
+        "Nombre": "CHILES JALAPEÑO LATA 500ML",
+        "Precio": 25.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 162,
+        "Nombre": "CHILES JALAPEÑO LATA 250ML",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 163,
+        "Nombre": "CHILES JALAPEÑO ",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 164,
+        "Nombre": "CHIPOTLES LATA 500ML",
+        "Precio": 28.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 165,
+        "Nombre": "CHIPOTLES LATA 250ML",
+        "Precio": 17.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 166,
+        "Nombre": "RAJAS LATA 500ML",
+        "Precio": 19.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 167,
+        "Nombre": "RAJAS LATA 250ML",
+        "Precio": 15.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 168,
+        "Nombre": "GRANO DE ELOTE LATA",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 6,
+        "ID": 169,
+        "Nombre": "LECHERA EVAPORADA",
+        "Precio": 22.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 8,
+        "ID": 170,
+        "Nombre": "MANTEQUILLA",
+        "Precio": 18.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 171,
+        "Nombre": "DORITOS",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 172,
+        "Nombre": "SABRITAS",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 173,
+        "Nombre": "RUFFLES",
+        "Precio": 0.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 174,
+        "Nombre": "CHETOS",
+        "Precio": 14.0,
+        "Tipo": "PZA"
+    },
+    {
+        "Cantidad": 0,
+        "ID": 175,
+        "Nombre": "FRITOS",
+        "Precio": 14.0,
+        "Tipo": "PZA"
+    }
+]
